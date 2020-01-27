@@ -574,7 +574,7 @@
       <Version>11.1.12</Version>
     </PackageReference>
     <PackageReference Include="ReactiveUI.WPF">
-      <Version>11.1.12</Version>
+      <Version>11.1.20</Version>
     </PackageReference>
     <PackageReference Include="SharpCompress">
       <Version>0.24.0</Version>
